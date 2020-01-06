@@ -1,0 +1,11 @@
+{
+    "name": "example_autotest",
+    "version": "0.0.1",
+    "scripts": {
+        "gulp": "testcafe",
+        "start": "testcafe"
+    },
+    "dependencies": {
+        "testcafe": "^1.7.1"
+    }
+}
